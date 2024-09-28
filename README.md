@@ -1,4 +1,5 @@
 NAME:SELVA JOBIN S
+
 REG NO : 212223220102
 ## EX NO:2 Control-of-Relay-Using-IoT-controller
 
@@ -55,7 +56,9 @@ void loop() {
   delay(1000);
 }
 ```
+
 ## CIRCUIT DIAGRAM:
+
 ![2 1](https://github.com/user-attachments/assets/13de3758-85ea-4263-8df4-0f806236852a)
 
 ## OUTPUT:
