@@ -57,11 +57,18 @@ void loop() {
 }
 ```
 
+
+
+
 ## CIRCUIT DIAGRAM:
+
+
+
 
 ![2 1](https://github.com/user-attachments/assets/13de3758-85ea-4263-8df4-0f806236852a)
 
 ## OUTPUT:
+
 ![2 2](https://github.com/user-attachments/assets/8acba82b-7b90-4cc5-ac3b-110f20e2eee6)
 ![2 3](https://github.com/user-attachments/assets/4a7b6b8d-ac32-482d-823c-d002bd56ebbf)
 
